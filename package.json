@@ -15,6 +15,7 @@
     "@types/js-yaml": "^3.5.28",
     "@types/node": "^7.0.5",
     "@types/request": "0.0.40",
+    "cheerio": "^1.0.0-rc.2",
     "js-yaml": "^3.2.6",
     "request": "^2.53.0"
   },
